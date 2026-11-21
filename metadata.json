@@ -1,0 +1,6 @@
+{
+  "name": "StackLens",
+  "description": "Grounded Knowledge Assistant, Semantic Vector Search, and Code Audit Workspace powered by Gemini embeddings and engineered prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
